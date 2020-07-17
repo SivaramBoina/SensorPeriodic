@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorPeriodic</string>
+    <string name="button_start">START</string>
+    <string name="button_stop">STOP</string>
+    <string name="label_light">Light Sensor(lux): %1$.2f</string>
+    <string name="label_proximity">Proximity Sensor(cm): %1$.2f</string>
+    <string name="pressure_sensor_hpa_1_2f">Pressure Sensor(hPa): %1$.2f</string>
+</resources>
